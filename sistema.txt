@@ -1,7 +1,5 @@
 Sistema Acadêmico IF
-<<<<<<< HEAD
-Versão: 1.1-estavel
-=======
-Versão: 2.0-beta
->>>>>>> feature/atualiza-versao
+Versão: 2.0-oficial
 Módulo: Inicial
+
+Participantes: Pedro, Genilson
